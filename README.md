@@ -1,1 +1,1 @@
-# SPI
+spi protocol
